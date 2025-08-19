@@ -20,16 +20,18 @@ This CLI allows you to insert employee data, view all records, and sort employee
 - readline (for CLI interaction)
 
 ## 📁 Project Structure
-employee-cli-app/ <br />
-├── index.js # Main CLI logic <br />
-├── package.json # Dependencies and scripts <br />
+
+employee-cli-app/  <br />
+├── 📄 index.js      <br />
+└── 📄 package.json      <br />
+ # Dependencies and scripts <br />
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/employee-management-cli.git
-cd employee-management-cli
+git clone https://github.com/your-username/Employee-Management-CLI.git <br />
+cd Employee-Management-CLI
 
 ### 2. Install Dependencies
 
